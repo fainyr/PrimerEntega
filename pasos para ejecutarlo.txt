@@ -1,0 +1,9 @@
+1. Para el primer punto, solo escribir la siguiente línea.
+"node prueba", sin las comillas.
+
+2. Para el segundo punto, escribir.
+"node prueba inscribir --i=? --n=? --c=?", en mi caso el alias no me funciona con un solo -, y el signo ? puede colocar cualquier valor.
+Los únicos id posible son:
+123
+345
+567

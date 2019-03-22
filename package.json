@@ -1,0 +1,24 @@
+{
+  "name": "entrega",
+  "version": "1.0.2",
+  "description": "primer entrega modificada",
+  "main": "prueba.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fainyr/PrimerEntega.git"
+  },
+  "author": "fainy fainyr@unicauca.edu.co",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fainyr/PrimerEntega/issues"
+  },
+  "homepage": "https://github.com/fainyr/PrimerEntega#readme"
+}
